@@ -39,5 +39,5 @@ def liblikas(tekst):
 print(liblikas("Kui arno isaga koolimajja autoga"))
 
               
-       
+#muudetud
 
