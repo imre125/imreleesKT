@@ -1,4 +1,3 @@
-Kes oli siin?
 ##
 ##'''Variant 1 '''
 #### Esimene ülesanne
